@@ -1,0 +1,21 @@
+body{
+        background-size: cover;
+        padding: 10%;
+         
+      }
+      
+.disabledList{
+    
+        pointer-events:none; 
+        opacity:0.6;        
+    
+}
+
+#todoList{
+        border: 10px solid rgb(9, 8, 14);
+        border-radius: 1rem;
+}
+
+#mainnavbar{
+        background: rgb(9, 8, 14);
+}
